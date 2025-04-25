@@ -1,0 +1,17 @@
+# پایه‌ای
+python-telegram-bot==20.3
+python-dotenv==1.0.0
+
+# دیتابیس و ذخیره‌سازی
+sqlite3==2.6.0  # معمولا پیش‌نصب شده
+psycopg2-binary==2.9.6  # برای PostgreSQL (اختیاری)
+redis==4.5.4  # اگر از Redis استفاده می‌کنید
+
+# ابزارهای کمکی
+python-dateutil==2.8.2
+pytz==2023.3
+emoji==2.8.0  # برای مدیریت ایموجی‌ها
+
+# توسعه و تست
+pytest==7.4.0
+python-decouple==3.8  # مدیریت تنظیمات
