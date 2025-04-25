@@ -11,9 +11,10 @@ import sqlite3
 from datetime import datetime
 
 # -------------------- تنظیمات پایه --------------------
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7854454220:AAHxBfkpUu6Gqt5LMtKHjSqAmvFW4hoZ2Bk
+"
 DB_NAME = "games_bot.db"
-ADMINS = [123456789]  # آیدی ادمین‌ها
+ADMINS = [6961529186]  # آیدی ادمین‌ها
 WARN_LIMIT = 3
 
 # -------------------- انوم حالت‌ها --------------------
